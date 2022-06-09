@@ -265,7 +265,7 @@ footer{
 }
 
 /* MOBILE RESPONSIVE */
-@media screen and (max-width: 400px){
+@media screen and (max-width: 420px){
    /* NAVIGATION */
    header{
        padding: 20px 0;
